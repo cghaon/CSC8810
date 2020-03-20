@@ -1,2 +1,3 @@
 # CSC8810
-Each py file correspond to certain question.
+Simulate a Function.py is ANN
+train on actual task is CNN
