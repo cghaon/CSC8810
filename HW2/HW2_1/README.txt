@@ -1,0 +1,1 @@
+sh ./hw2_seq2seq.sh ./testing_data/feat/ hw2Result
